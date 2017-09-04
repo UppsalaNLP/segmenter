@@ -1,3 +1,5 @@
+### Obs! This is the version we used for the shared task that is not maintained and updated anymore. Please refer to https://github.com/yanshao9798/segmenter for the updated version.
+
 # Segmenter
 Universal segmenter, written by Y. Shao, Uppsala University
 
